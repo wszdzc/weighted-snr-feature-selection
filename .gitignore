@@ -1,0 +1,18 @@
+# Data files (too large; download from upstream)
+*.npz
+data/
+images/
+
+# Build / caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
